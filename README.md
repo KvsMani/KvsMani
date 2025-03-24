@@ -1,7 +1,5 @@
 ## Hi 
 
-<!--
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...Unreal Engine
 - 🌱 I’m currently learning ...Unreal engine, Blender, Blueprints
@@ -11,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...[Discord](https://www.instagram.com/kvs.mani_/)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...It is what it is.
--->
+
