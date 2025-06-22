@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    🔭 I’m currently working on ...Unreal Engine<br>    🌱 I’m currently learning ...Unreal engine, Blender, Blueprints, Ai Agents<br>    👯 I’m looking to collaborate on ...Unreal engine<br>    🤔 I’m looking for help with ...3d game development in unreal engine<br>    💬 Ask me about ...Anything<br>       😄 Pronouns: ...He/Him<br>    ⚡ Fun fact: ...It is what it is.<br>
+<br>        🌱 I’m currently learning ...Unreal engine, Blender, Blueprints, Ai Agents<br>    👯 I’m looking to collaborate on ...Unreal engine<br>    🤔 I’m looking for help with ...3d game development in unreal engine<br>    💬 Ask me about ...Anything<br>       😄 Pronouns: ...He/Him<br>    ⚡ Fun fact: ...It is what it is.<br>
 
 
 ## 🌐 Socials:
